@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 
-bot = commands.Bot(command_prefix = "£")
+bot = commands.Bot(command_prefix = a/£")
 
 class BotData:
     def __init__(self):
@@ -142,4 +142,4 @@ async def dm_all(ctx, *, args=None):
     else:
         await ctx.channel.send("A message was not provided.")
 
-bot.run("token")
+bot.run("NzQyNzc1NDc3MTYwMTE2Mjg5.XzLBkQ.BYmkm0qYlZSvMKcTZB-A188jcFc")
